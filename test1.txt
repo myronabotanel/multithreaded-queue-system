@@ -1,0 +1,428 @@
+
+Time 0
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 1
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 2
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 3
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 4
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 5
+Waiting Clients:
+(3,6,2) (1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 6
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: (3,6,2) ; 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 7
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: (3,6,1) ; 
+
+Queue2: 
+Average Waiting Time: 0.0Average Service Time: 0.0
+Time 8
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.5Average Service Time: 0.5
+Time 9
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.625Average Service Time: 0.625
+Time 10
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.65625Average Service Time: 0.65625
+Time 11
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.6640625Average Service Time: 0.6640625
+Time 12
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.6660156Average Service Time: 0.6660156
+Time 13
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.6665039Average Service Time: 0.6665039
+Time 14
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.666626Average Service Time: 0.666626
+Time 15
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.6666565Average Service Time: 0.6666565
+Time 16
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.6666641Average Service Time: 0.6666641
+Time 17
+Waiting Clients:
+(1,18,2) (2,19,2) (4,21,3) 
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 0.66666603Average Service Time: 0.66666603
+Time 18
+Waiting Clients:
+(2,19,2) (4,21,3) 
+Queue1: (1,18,2) ; 
+
+Queue2: 
+Average Waiting Time: 0.6666665Average Service Time: 0.6666665
+Time 19
+Waiting Clients:
+(4,21,3) 
+Queue1: (1,18,1) ; 
+
+Queue2: (2,19,2) ; 
+Average Waiting Time: 0.6666666Average Service Time: 0.6666666
+Time 20
+Waiting Clients:
+(4,21,3) 
+Queue1: 
+
+Queue2: (2,19,1) ; 
+Average Waiting Time: 1.1666666Average Service Time: 1.1666666
+Time 21
+Waiting Clients:
+
+Queue1: (4,21,3) ; 
+
+Queue2: 
+Average Waiting Time: 1.7916666Average Service Time: 1.7916666
+Time 22
+Waiting Clients:
+
+Queue1: (4,21,2) ; 
+
+Queue2: 
+Average Waiting Time: 1.9479166Average Service Time: 1.9479166
+Time 23
+Waiting Clients:
+
+Queue1: (4,21,1) ; 
+
+Queue2: 
+Average Waiting Time: 1.9869791Average Service Time: 1.9869791
+Time 24
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.7467449Average Service Time: 2.7467449
+Time 25
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9366863Average Service Time: 2.9366863
+Time 26
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9841716Average Service Time: 2.9841716
+Time 27
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.996043Average Service Time: 2.996043
+Time 28
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9990108Average Service Time: 2.9990108
+Time 29
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9997528Average Service Time: 2.9997528
+Time 30
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9999382Average Service Time: 2.9999382
+Time 31
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9999845Average Service Time: 2.9999845
+Time 32
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9999962Average Service Time: 2.9999962
+Time 33
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.999999Average Service Time: 2.999999
+Time 34
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 2.9999998Average Service Time: 2.9999998
+Time 35
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 36
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 37
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 38
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 39
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 40
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 41
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 42
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 43
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 44
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 45
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 46
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 47
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 48
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 49
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 50
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 51
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 52
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 53
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 54
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 55
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 56
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 57
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 58
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 59
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
+Time 60
+Waiting Clients:
+
+Queue1: 
+
+Queue2: 
+Average Waiting Time: 3.0Average Service Time: 3.0
